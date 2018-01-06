@@ -1,0 +1,3 @@
+For enabling custom port in aws please follow below steps (Dont Enable all ports):
+
+1)EC2 -> security group -> select your instance-> inbound rules -> Edit -> Add Rules -> select drop down (custom TCP Rule) -> Input your port -> save
